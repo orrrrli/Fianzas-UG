@@ -2,3 +2,7 @@ body {
   margin: 0em;
 }
 
+.cover {
+  height:400px;
+  background-color:red;
+}
