@@ -1,11 +1,14 @@
 body {
-  margin: 2em;
+  margin: 02em;
 }
 
 .cover {
   height: 400px;
-  background-image: url(https://cdn.glitch.global/a80f6a63-9e11-4fe0-9151-f0c71294672a/kelly-sikkema-6aY-6B3MiZ4-unsplash.jpg?v=1645157986735);
-  color: blue;
+  background-image: url(https://cdn.glitch.global/a80f6a63-9e11-4fe0-9151-f0c71294672a/andrik-langfield-Up9rQ3pk9XQ-unsplash.jpg?v=1645158257553);
   background-size: cover;
   background-position: center;
+  background-color:rgba(0,0,0,0.2);
+  background-blend-mode:darken;
+  color: white;
+  
 }
