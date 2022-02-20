@@ -1,5 +1,6 @@
 body {
   margin: 02em;
+  font-family: 'Roboto Serif', sans-serif;
 }
 
 .cover {
@@ -31,4 +32,4 @@ body {
 
 .card-text{
   min-height: 15rem;
-}
+}font-family: 'Roboto Serif', sans-serif;
