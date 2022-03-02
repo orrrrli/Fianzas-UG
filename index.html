@@ -176,15 +176,18 @@
           </div>
         </div>
         <form action="https://formsubmit.co/keorcasa@gmail.com" method="post">
-          <label for="tel">Numero telefonico/Whatsapp:</label>
-          <div class="d-flex">
-            <div class="flex-fill mr-2">
-              <input type="text" name="phone" id="subject" class="form-control" />
-              <label for="tel">Nombre de contacto: </label>
-               <input type="text" name="name" id="subject1" class="form-control" />
-            </div>
-            <button type="submit">Enviar</button>
+          <div class="mb-3">
+            <label class="form-label">Numero de Telefono/Whatsapp</label>
+              <input type="text" name="phone" class="form-control" id="phone1" aria-describedby="TelHelp">
+          <div id="emailHelp" class="form-text">Nosotros no compartiremos tu telefono con nadie mas.</div>
           </div>
+            <div class="mb-3">
+              <label class="form-label">Nombre de contacto</label>
+                <input type="text" name="name" class="form-control" id="name1">
+            </div>
+            <div class="mb-3 form-check">
+            </div>
+            <button type="submit" class="btn btn-primary">Enviar</button>
         </form>
       </div>
     </section>
