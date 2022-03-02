@@ -1,6 +1,7 @@
 body {
   margin: 0em;
   font-family: 'Libre Franklin', sans-serif;
+  
 }
 
 h1,h2,h3,h4,h5{
@@ -14,6 +15,7 @@ h1,h2,h3,h4,h5{
   background-color:rgba(0,0,0,0.2);
   background-blend-mode:darken;
   color: #EAF2F8;
+  
   
 }
 
