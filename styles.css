@@ -53,16 +53,23 @@ h7{
 
 .slider{
   width:95%;
-  margin:auto;
+  margin:0 auto;
   overflow:hidden;
+  justify-content: center;
+   position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-20%, 80%);
 }
 
 .slider ul{
   display:flex;
+  
   padding:0;
   width:400%;
   animation: cambio 20s infinite;
   animation-direction:alternate;
+  
 }
 
 .slider li{
