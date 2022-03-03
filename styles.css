@@ -19,6 +19,14 @@ h1,h2,h3,h4,h5{
   
 }
 
+.cover-large{
+  height:600px;
+  width:170%;
+  background-size: cover;
+  background-position: center;
+}
+
+
 .cover-small{
   height:300px;
   background-blend-mode:normal;
