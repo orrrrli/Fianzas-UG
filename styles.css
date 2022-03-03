@@ -62,8 +62,9 @@ h7{
 }
 
 .box1{
-  float: left;
-  width: 45%;
+  margin:2em;
+  float: right;
+  width: 65%;
 }
 
 
