@@ -28,11 +28,10 @@ h1,h2,h3,h4,h5{
 }
 
 .cover-medium{
-    height:600px;
-    width:450px;
- 
   background-size: cover;
   background-position: center;
+height:400px;
+    width:300px;
 }
 
 .cover-small{
