@@ -50,7 +50,7 @@ This repository is for personal use, but if you have any suggestions or improvem
 
 ### License
 
-This landing page template is available under the Orlando Sanchez. Check the LICENSE file for more details.
+This landing page template is available under the Orlando Sanchez. 
 
 ### Resources
 
